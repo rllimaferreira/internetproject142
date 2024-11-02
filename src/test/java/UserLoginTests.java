@@ -1,5 +1,5 @@
 
-// 1 - biblitoecas / imports
+// 1 - bibliotecas / imports
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import java.time.Duration;
 import org.junit.jupiter.api.AfterEach;
